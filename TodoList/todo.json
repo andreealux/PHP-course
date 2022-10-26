@@ -1,0 +1,11 @@
+{
+    "buy monitor": {
+        "completed": false
+    },
+    "test": {
+        "completed": true
+    },
+    "new": {
+        "completed": true
+    }
+}
